@@ -11,20 +11,6 @@
 // which ended up doing no good for me
 // Therefore, I turned the graph into and adjacency matrix and used to solve the problem
 
-// By the way, I would like to mention that I will be re-doing most of the assignment
-// since I believe that most low grades I got were in the first half of the material
-// where I didn't have many chances to practice the code and the stucture well enough
-// I believe that so far, I successfully mastered every course outcome.
-
-// because honestly, I took you as a professor because I am Al Ghurair scholar
-// and I don't know if you remember when you played a game with us in summer
-// and told us what's more important is how to learn to be able to succeed 
-// in the next 10 years.
-// and I frankly would love to pass your class with A+ since
-// I have so much respect for you and I don't want to fail myself by not getting a high grade
-
-// I hope I still have the chance to get that A+
-// Thank you so much Sir for your help and your efforts.
 int city[26][26];
 int max_length;
 int n, m;
@@ -98,8 +84,4 @@ int main()
 
 		printf("%d\n", max_length);
 	}
-
-  // By the way, the reason why I couldn't submit online is because it took time
-  // to write all these comments and detailing every part of the process
-  // as you suggested in our class today
 }
